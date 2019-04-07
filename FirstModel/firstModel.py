@@ -26,3 +26,17 @@ plt.plot(history.history['loss'])
 
 print(model.predict([100.0,24]))
 print("These are the layer variables: {}". format(l0.get_weights()))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
